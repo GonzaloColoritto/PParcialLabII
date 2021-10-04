@@ -1,0 +1,89 @@
+C:\Users\Gonza\Desktop\ParcialesLaboratorio\PPL_Coloritto_2E\FormInicio\bin\Debug\net5.0-windows\FormInicio.exe
+C:\Users\Gonza\Desktop\ParcialesLaboratorio\PPL_Coloritto_2E\FormInicio\bin\Debug\net5.0-windows\FormInicio.deps.json
+C:\Users\Gonza\Desktop\ParcialesLaboratorio\PPL_Coloritto_2E\FormInicio\bin\Debug\net5.0-windows\FormInicio.runtimeconfig.json
+C:\Users\Gonza\Desktop\ParcialesLaboratorio\PPL_Coloritto_2E\FormInicio\bin\Debug\net5.0-windows\FormInicio.runtimeconfig.dev.json
+C:\Users\Gonza\Desktop\ParcialesLaboratorio\PPL_Coloritto_2E\FormInicio\bin\Debug\net5.0-windows\FormInicio.dll
+C:\Users\Gonza\Desktop\ParcialesLaboratorio\PPL_Coloritto_2E\FormInicio\bin\Debug\net5.0-windows\ref\FormInicio.dll
+C:\Users\Gonza\Desktop\ParcialesLaboratorio\PPL_Coloritto_2E\FormInicio\bin\Debug\net5.0-windows\FormInicio.pdb
+C:\Users\Gonza\Desktop\ParcialesLaboratorio\PPL_Coloritto_2E\FormInicio\obj\Debug\net5.0-windows\FormInicio.csproj.AssemblyReference.cache
+C:\Users\Gonza\Desktop\ParcialesLaboratorio\PPL_Coloritto_2E\FormInicio\obj\Debug\net5.0-windows\FormInicio.csproj.GenerateResource.cache
+C:\Users\Gonza\Desktop\ParcialesLaboratorio\PPL_Coloritto_2E\FormInicio\obj\Debug\net5.0-windows\FormInicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gonza\Desktop\ParcialesLaboratorio\PPL_Coloritto_2E\FormInicio\obj\Debug\net5.0-windows\FormInicio.AssemblyInfoInputs.cache
+C:\Users\Gonza\Desktop\ParcialesLaboratorio\PPL_Coloritto_2E\FormInicio\obj\Debug\net5.0-windows\FormInicio.AssemblyInfo.cs
+C:\Users\Gonza\Desktop\ParcialesLaboratorio\PPL_Coloritto_2E\FormInicio\obj\Debug\net5.0-windows\FormInicio.csproj.CoreCompileInputs.cache
+C:\Users\Gonza\Desktop\ParcialesLaboratorio\PPL_Coloritto_2E\FormInicio\obj\Debug\net5.0-windows\FormInicio.dll
+C:\Users\Gonza\Desktop\ParcialesLaboratorio\PPL_Coloritto_2E\FormInicio\obj\Debug\net5.0-windows\ref\FormInicio.dll
+C:\Users\Gonza\Desktop\ParcialesLaboratorio\PPL_Coloritto_2E\FormInicio\obj\Debug\net5.0-windows\FormInicio.pdb
+C:\Users\Gonza\Desktop\ParcialesLaboratorio\PPL_Coloritto_2E\FormInicio\obj\Debug\net5.0-windows\FormInicio.genruntimeconfig.cache
+C:\Users\Gonza\Desktop\ParcialesLaboratorio\PPL_Coloritto_2E\FormInicio\bin\Debug\net5.0-windows\Entidades.dll
+C:\Users\Gonza\Desktop\ParcialesLaboratorio\PPL_Coloritto_2E\FormInicio\bin\Debug\net5.0-windows\Entidades.pdb
+C:\Users\Gonza\Desktop\ParcialesLaboratorio\PPL_Coloritto_2E\FormInicio\obj\Debug\net5.0-windows\FormInicio.Log.resources
+C:\Users\Gonza\Desktop\ParcialesLaboratorio\PPL_Coloritto_2E\FormInicio\obj\Debug\net5.0-windows\FormInicio.csproj.CopyComplete
+C:\Users\Gonza\Desktop\ParcialesLaboratorio\PPL_Coloritto_2E\FormInicio\obj\Debug\net5.0-windows\FormInicio.FormAltaCliente.resources
+C:\Users\Gonza\Desktop\ParcialesLaboratorio\PPL_Coloritto_2E\FormInicio\obj\Debug\net5.0-windows\FormInicio.FormInicio.resources
+C:\Users\Gonza\Desktop\ParcialesLaboratorio\PPL_Coloritto_2E\FormInicio\obj\Debug\net5.0-windows\FormInicio.Properties.Resources.resources
+C:\Users\Gonza\Desktop\ParcialesLaboratorio\PPL_Coloritto_2E\FormInicio\obj\Debug\net5.0-windows\FormInicio.FormStock.resources
+C:\Users\Gonza\Desktop\ParcialesLaboratorio\PPL_Coloritto_2E\FormInicio\obj\Debug\net5.0-windows\FormInicio.FormVerClientes.resources
+C:\Users\Gonza\Desktop\ParcialesLaboratorio\PPL_Coloritto_2E\FormInicio\obj\Debug\net5.0-windows\FormInicio.FormVerEmpleados.resources
+C:\Users\Gonza\Desktop\ParcialesLaboratorio\PPL_Coloritto_2E\FormInicio\obj\Debug\net5.0-windows\FormInicio.FormVenta.resources
+C:\Users\Gonza\Desktop\ParcialesLaboratorio\PPL_Coloritto_2E\FormInicio\obj\Debug\net5.0-windows\FormInicio.FormNuevoTrabajador.resources
+C:\Users\Colegio\Desktop\Facultad\PPL_Coloritto_2E\FormInicio\bin\Debug\net5.0-windows\FormInicio.exe
+C:\Users\Colegio\Desktop\Facultad\PPL_Coloritto_2E\FormInicio\bin\Debug\net5.0-windows\FormInicio.deps.json
+C:\Users\Colegio\Desktop\Facultad\PPL_Coloritto_2E\FormInicio\bin\Debug\net5.0-windows\FormInicio.runtimeconfig.json
+C:\Users\Colegio\Desktop\Facultad\PPL_Coloritto_2E\FormInicio\bin\Debug\net5.0-windows\FormInicio.runtimeconfig.dev.json
+C:\Users\Colegio\Desktop\Facultad\PPL_Coloritto_2E\FormInicio\bin\Debug\net5.0-windows\FormInicio.dll
+C:\Users\Colegio\Desktop\Facultad\PPL_Coloritto_2E\FormInicio\bin\Debug\net5.0-windows\ref\FormInicio.dll
+C:\Users\Colegio\Desktop\Facultad\PPL_Coloritto_2E\FormInicio\bin\Debug\net5.0-windows\FormInicio.pdb
+C:\Users\Colegio\Desktop\Facultad\PPL_Coloritto_2E\FormInicio\bin\Debug\net5.0-windows\Entidades.dll
+C:\Users\Colegio\Desktop\Facultad\PPL_Coloritto_2E\FormInicio\bin\Debug\net5.0-windows\Entidades.pdb
+C:\Users\Colegio\Desktop\Facultad\PPL_Coloritto_2E\FormInicio\obj\Debug\net5.0-windows\FormInicio.csproj.AssemblyReference.cache
+C:\Users\Colegio\Desktop\Facultad\PPL_Coloritto_2E\FormInicio\obj\Debug\net5.0-windows\FormInicio.FormAltaCliente.resources
+C:\Users\Colegio\Desktop\Facultad\PPL_Coloritto_2E\FormInicio\obj\Debug\net5.0-windows\FormInicio.FormInicio.resources
+C:\Users\Colegio\Desktop\Facultad\PPL_Coloritto_2E\FormInicio\obj\Debug\net5.0-windows\FormInicio.FormNuevoTrabajador.resources
+C:\Users\Colegio\Desktop\Facultad\PPL_Coloritto_2E\FormInicio\obj\Debug\net5.0-windows\FormInicio.FormStock.resources
+C:\Users\Colegio\Desktop\Facultad\PPL_Coloritto_2E\FormInicio\obj\Debug\net5.0-windows\FormInicio.FormVenta.resources
+C:\Users\Colegio\Desktop\Facultad\PPL_Coloritto_2E\FormInicio\obj\Debug\net5.0-windows\FormInicio.FormVerClientes.resources
+C:\Users\Colegio\Desktop\Facultad\PPL_Coloritto_2E\FormInicio\obj\Debug\net5.0-windows\FormInicio.FormVerEmpleados.resources
+C:\Users\Colegio\Desktop\Facultad\PPL_Coloritto_2E\FormInicio\obj\Debug\net5.0-windows\FormInicio.Log.resources
+C:\Users\Colegio\Desktop\Facultad\PPL_Coloritto_2E\FormInicio\obj\Debug\net5.0-windows\FormInicio.Properties.Resources.resources
+C:\Users\Colegio\Desktop\Facultad\PPL_Coloritto_2E\FormInicio\obj\Debug\net5.0-windows\FormInicio.csproj.GenerateResource.cache
+C:\Users\Colegio\Desktop\Facultad\PPL_Coloritto_2E\FormInicio\obj\Debug\net5.0-windows\FormInicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Colegio\Desktop\Facultad\PPL_Coloritto_2E\FormInicio\obj\Debug\net5.0-windows\FormInicio.AssemblyInfoInputs.cache
+C:\Users\Colegio\Desktop\Facultad\PPL_Coloritto_2E\FormInicio\obj\Debug\net5.0-windows\FormInicio.AssemblyInfo.cs
+C:\Users\Colegio\Desktop\Facultad\PPL_Coloritto_2E\FormInicio\obj\Debug\net5.0-windows\FormInicio.csproj.CoreCompileInputs.cache
+C:\Users\Colegio\Desktop\Facultad\PPL_Coloritto_2E\FormInicio\obj\Debug\net5.0-windows\FormInicio.csproj.CopyComplete
+C:\Users\Colegio\Desktop\Facultad\PPL_Coloritto_2E\FormInicio\obj\Debug\net5.0-windows\FormInicio.dll
+C:\Users\Colegio\Desktop\Facultad\PPL_Coloritto_2E\FormInicio\obj\Debug\net5.0-windows\ref\FormInicio.dll
+C:\Users\Colegio\Desktop\Facultad\PPL_Coloritto_2E\FormInicio\obj\Debug\net5.0-windows\FormInicio.pdb
+C:\Users\Colegio\Desktop\Facultad\PPL_Coloritto_2E\FormInicio\obj\Debug\net5.0-windows\FormInicio.genruntimeconfig.cache
+C:\Users\Gonza\Desktop\ParcialesLaboratorio - copia\PPL_Coloritto_2E\FormInicio\obj\Debug\net5.0-windows\FormInicio.csproj.AssemblyReference.cache
+C:\Users\Gonza\Desktop\ParcialesLaboratorio - copia\PPL_Coloritto_2E\FormInicio\obj\Debug\net5.0-windows\FormInicio.FormAltaCliente.resources
+C:\Users\Gonza\Desktop\ParcialesLaboratorio - copia\PPL_Coloritto_2E\FormInicio\obj\Debug\net5.0-windows\FormInicio.FormInicio.resources
+C:\Users\Gonza\Desktop\ParcialesLaboratorio - copia\PPL_Coloritto_2E\FormInicio\obj\Debug\net5.0-windows\FormInicio.FormNuevoTrabajador.resources
+C:\Users\Gonza\Desktop\ParcialesLaboratorio - copia\PPL_Coloritto_2E\FormInicio\obj\Debug\net5.0-windows\FormInicio.FormStock.resources
+C:\Users\Gonza\Desktop\ParcialesLaboratorio - copia\PPL_Coloritto_2E\FormInicio\obj\Debug\net5.0-windows\FormInicio.FormVenta.resources
+C:\Users\Gonza\Desktop\ParcialesLaboratorio - copia\PPL_Coloritto_2E\FormInicio\obj\Debug\net5.0-windows\FormInicio.FormVerClientes.resources
+C:\Users\Gonza\Desktop\ParcialesLaboratorio - copia\PPL_Coloritto_2E\FormInicio\obj\Debug\net5.0-windows\FormInicio.FormVerEmpleados.resources
+C:\Users\Gonza\Desktop\ParcialesLaboratorio - copia\PPL_Coloritto_2E\FormInicio\obj\Debug\net5.0-windows\FormInicio.Log.resources
+C:\Users\Gonza\Desktop\ParcialesLaboratorio - copia\PPL_Coloritto_2E\FormInicio\obj\Debug\net5.0-windows\FormInicio.Properties.Resources.resources
+C:\Users\Gonza\Desktop\ParcialesLaboratorio - copia\PPL_Coloritto_2E\FormInicio\obj\Debug\net5.0-windows\FormInicio.csproj.GenerateResource.cache
+C:\Users\Gonza\Desktop\ParcialesLaboratorio - copia\PPL_Coloritto_2E\FormInicio\obj\Debug\net5.0-windows\FormInicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gonza\Desktop\ParcialesLaboratorio - copia\PPL_Coloritto_2E\FormInicio\obj\Debug\net5.0-windows\FormInicio.AssemblyInfoInputs.cache
+C:\Users\Gonza\Desktop\ParcialesLaboratorio - copia\PPL_Coloritto_2E\FormInicio\obj\Debug\net5.0-windows\FormInicio.AssemblyInfo.cs
+C:\Users\Gonza\Desktop\ParcialesLaboratorio - copia\PPL_Coloritto_2E\FormInicio\obj\Debug\net5.0-windows\FormInicio.csproj.CoreCompileInputs.cache
+C:\Users\Gonza\Desktop\ParcialesLaboratorio - copia\PPL_Coloritto_2E\FormInicio\obj\Debug\net5.0-windows\FormInicio.dll
+C:\Users\Gonza\Desktop\ParcialesLaboratorio - copia\PPL_Coloritto_2E\FormInicio\obj\Debug\net5.0-windows\ref\FormInicio.dll
+C:\Users\Gonza\Desktop\ParcialesLaboratorio - copia\PPL_Coloritto_2E\FormInicio\obj\Debug\net5.0-windows\FormInicio.pdb
+C:\Users\Gonza\Desktop\ParcialesLaboratorio - copia\PPL_Coloritto_2E\FormInicio\bin\Debug\net5.0-windows\FormInicio.exe
+C:\Users\Gonza\Desktop\ParcialesLaboratorio - copia\PPL_Coloritto_2E\FormInicio\bin\Debug\net5.0-windows\FormInicio.deps.json
+C:\Users\Gonza\Desktop\ParcialesLaboratorio - copia\PPL_Coloritto_2E\FormInicio\bin\Debug\net5.0-windows\FormInicio.runtimeconfig.json
+C:\Users\Gonza\Desktop\ParcialesLaboratorio - copia\PPL_Coloritto_2E\FormInicio\bin\Debug\net5.0-windows\FormInicio.runtimeconfig.dev.json
+C:\Users\Gonza\Desktop\ParcialesLaboratorio - copia\PPL_Coloritto_2E\FormInicio\bin\Debug\net5.0-windows\FormInicio.dll
+C:\Users\Gonza\Desktop\ParcialesLaboratorio - copia\PPL_Coloritto_2E\FormInicio\bin\Debug\net5.0-windows\ref\FormInicio.dll
+C:\Users\Gonza\Desktop\ParcialesLaboratorio - copia\PPL_Coloritto_2E\FormInicio\bin\Debug\net5.0-windows\FormInicio.pdb
+C:\Users\Gonza\Desktop\ParcialesLaboratorio - copia\PPL_Coloritto_2E\FormInicio\bin\Debug\net5.0-windows\Entidades.dll
+C:\Users\Gonza\Desktop\ParcialesLaboratorio - copia\PPL_Coloritto_2E\FormInicio\bin\Debug\net5.0-windows\Entidades.pdb
+C:\Users\Gonza\Desktop\ParcialesLaboratorio - copia\PPL_Coloritto_2E\FormInicio\obj\Debug\net5.0-windows\FormInicio.csproj.CopyComplete
+C:\Users\Gonza\Desktop\ParcialesLaboratorio - copia\PPL_Coloritto_2E\FormInicio\obj\Debug\net5.0-windows\FormInicio.genruntimeconfig.cache
+C:\Users\Gonza\Desktop\ParcialesLaboratorio - copia\PPL_Coloritto_2E\FormInicio\obj\Debug\net5.0-windows\FormInicio.FormEditarEmpleado.resources
+C:\Users\Gonza\Desktop\ParcialesLaboratorio - copia\PPL_Coloritto_2E\FormInicio\obj\Debug\net5.0-windows\FormInicio.FormVerVentas.resources
